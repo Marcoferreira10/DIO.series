@@ -1,6 +1,6 @@
 using System;
 
-namespace dio.series
+namespace dio.series.series
 {
     public class Serie : EntidadeBase
     {
